@@ -6,6 +6,7 @@ export class CommentWithAuthorPresenter {
       commentId: commentWithAuthor.commentId.toValue(),
       authorId: commentWithAuthor.authorId.toValue(),
       authorName: commentWithAuthor.author,
+      content: commentWithAuthor.content,
       createdAt: commentWithAuthor.createdAt,
       updatedAt: commentWithAuthor.updatedAt,
     }
