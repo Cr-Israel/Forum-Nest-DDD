@@ -1,16 +1,16 @@
-# 🏛️ Forum-Nest-DDD: A Modern Forum Built with NestJS and Domain-Driven Design
+# 🏛️ A Modern Forum Built with NestJS and Domain-Driven Design
 
-![Banner Image](https://via.placeholder.com/1200x400)  *Replace with actual banner image path*
+![Banner Image]("./image.png")  *Replace with actual banner image path*
 
 ## 🚀 Introduction
 **Forum-Nest-DDD** is a robust and scalable forum application built with **NestJS** and **Domain-Driven Design (DDD)** principles. This project aims to provide a clean architecture, modular design, and a rich feature set for building modern forum platforms.
 
 ## 🌟 Features
-- 💬 **Thread Management**: Create, read, update, and delete threads.
-- 🔍 **Advanced Search**: Search across threads, posts, and users.
-- 🧑‍💻 **User Profiles**: Customizable profiles with avatars and bios.
+- 💬 **Question Management**: Create, read, update, and delete questions.
+- 🗣️ **Answer Management**: Create, read, update, and delete answers.
+- 🔍 **Advanced Search**: Search across questions and answers.
+- 📂 **Upload Attachments**: Search across questions and answers.
 - 🔒 **Authentication & Authorization**: Secure user authentication and role-based access control.
-- 🗂️ **Categories & Tags**: Organize discussions with categories and tags.
 - 💬 **Real-time Messaging** *Coming Soon*: Engage in real-time discussions.
 
 ## 🛠️ Installation
@@ -42,9 +42,6 @@ npm run start:dev
 ```
 
 ## 🖥️ Usage
-### API Documentation
-[Here](https://your-api-docs-link.com) is the link to the API documentation.
-
 ### Running the Project
 ```bash
 npm run start:dev
@@ -72,4 +69,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-**Forum-Nest-DDD** is crafted with ❤️ by [Your Name](https://github.com/yourusername). Let's build something great together! 🚀
+**Forum-Nest-DDD** is crafted with ❤️ by [Carlos Israel](https://github.com/Cr-Israel). Let's build something great together! 🚀
