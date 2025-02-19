@@ -1,4 +1,11 @@
 # 🏛️ A Modern Forum Built with NestJS and Domain-Driven Design
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white")](https://nestjs.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/)
+[![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)](https://vitest.dev/)
+
 ## 🚀 Introduction
 **Forum-Nest-DDD** is a robust and scalable forum application built with **NestJS** and **Domain-Driven Design (DDD)** principles. This project aims to provide a clean architecture, modular design, and a rich feature set for building modern forum platforms.
 
