@@ -1,7 +1,5 @@
 # 🏛️ A Modern Forum Built with NestJS and Domain-Driven Design
 
-![Banner Image]("./image.png")  *Replace with actual banner image path*
-
 ## 🚀 Introduction
 **Forum-Nest-DDD** is a robust and scalable forum application built with **NestJS** and **Domain-Driven Design (DDD)** principles. This project aims to provide a clean architecture, modular design, and a rich feature set for building modern forum platforms.
 
